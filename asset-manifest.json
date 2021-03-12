@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CarlsonTure_MA6/static/css/main.90cbf8bf.chunk.css",
-    "main.js": "/CarlsonTure_MA6/static/js/main.8d8b4223.chunk.js",
-    "main.js.map": "/CarlsonTure_MA6/static/js/main.8d8b4223.chunk.js.map",
+    "main.js": "/CarlsonTure_MA6/static/js/main.df312080.chunk.js",
+    "main.js.map": "/CarlsonTure_MA6/static/js/main.df312080.chunk.js.map",
     "runtime-main.js": "/CarlsonTure_MA6/static/js/runtime-main.475c2ace.js",
     "runtime-main.js.map": "/CarlsonTure_MA6/static/js/runtime-main.475c2ace.js.map",
     "static/js/2.ba2d048c.chunk.js": "/CarlsonTure_MA6/static/js/2.ba2d048c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.475c2ace.js",
     "static/js/2.ba2d048c.chunk.js",
     "static/css/main.90cbf8bf.chunk.css",
-    "static/js/main.8d8b4223.chunk.js"
+    "static/js/main.df312080.chunk.js"
   ]
 }
