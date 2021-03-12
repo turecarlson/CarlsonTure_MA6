@@ -1,0 +1,15 @@
+.dice-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 100%;
+    justify-content: center;
+}
+
+/* See /src/components/css/DieComponent.css for further styling */
+.dice-container>.die {
+    margin: 1vw;
+    outline: .5vw solid grey;
+    max-width: 17vw;
+    height: 17vw;
+}
