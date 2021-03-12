@@ -30,7 +30,7 @@ class RollButton extends React.Component {
      * @returns the number 'rolled' by the 'die'
      */
     rollDie(n) {
-        return Math.floor(Math.random() * (n - 1)) + 1;
+        return Math.floor(Math.random() * n) + 1;
     }
 
 }
